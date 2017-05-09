@@ -12,6 +12,7 @@ namespace TechnicalAssessment
                 ProcessTechnicalAssessment processTechnicalAssessment = new ProcessTechnicalAssessment();
                 processTechnicalAssessment.Process();
 
+
             }
             catch (Exception ex)
             {
